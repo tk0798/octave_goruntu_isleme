@@ -1,4 +1,4 @@
-%tasýma
+%oteleme
 
 A=imread('C:\Users\HP\Desktop\GoruntuIsleme\Safari_RGB.jpg');
 B=zeros(size(A));
@@ -26,4 +26,4 @@ end
 
 
 %imshow(B);
-imwrite(C,'C:\Users\HP\Desktop\GoruntuIsleme\Tasýma.jpg');
+imwrite(C,'C:\Users\HP\Desktop\GoruntuIsleme\Oteleme.jpg');
